@@ -1,6 +1,6 @@
 # Effective Data Reduction Algorithm for Topological Data Analysis
 
-This is the code used in
+This is the partial code used in
 
 'Effective Data Reduction Algorithm for Topological Data Analysis'
 

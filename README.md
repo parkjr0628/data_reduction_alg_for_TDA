@@ -4,7 +4,7 @@ This is the partial code used in
 
 'Effective Data Reduction Algorithm for Topological Data Analysis'
 
-Seonmi Choi, Jinseok Oh, Jeong Rye Park, Seung Yeop Yang and Hongdae Yun
+Seonmi Choi, Jinseok Oh, Jeong Rye Park, Seung Yeop Yang and Hongdae Yun.
 
 [link]([]()) (not yet)
 
